@@ -13,4 +13,7 @@
 ## Apoio à comunidade
 - Material de suporte com Perguntas Frequêntes relacionadas ao Notepad++ ([FAQ](https://github.com/paulo16-bit/notepadpp-guia-instalacao-ptbr))
 
+## Produção de Conteúdo Audiovisual ou Série de Posts
+- Série de vídeos completa sobre Software Livre, em específico, o Notepad++ ([PlayList](https://www.youtube.com/playlist?list=PLhMtrrT7iMHPcMJyGsL-BQVHGa3vTee_I))
+
 
