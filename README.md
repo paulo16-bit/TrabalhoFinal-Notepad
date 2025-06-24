@@ -10,7 +10,7 @@
 - Tradução do tópico "Getting Started" do manual de usuario [Começando](https://github.com/paulo16-bit/notepadpp-traducao-ptbr/blob/main/Come%C3%A7ando.pdf)
 - Tradução do tópico "Working with Files" do manual de usuario [Trabalhando com arquivos](https://github.com/paulo16-bit/notepadpp-traducao-ptbr/blob/main/TrabalhandoComArquivos.pdf)
 
-## Desenvolvimento de Script ou Ferramenta Auxiliar
-- Guia para auxiliar a instalação do Notepad++ [Guia de instalação](https://github.com/paulo16-bit/notepadpp-guia-instalacao-ptbr)
+## Apoio à comunidade
+- Material de suporte com Perguntas Frequêntes relacionadas ao Notepad++ ([FAQ](https://github.com/paulo16-bit/notepadpp-guia-instalacao-ptbr))
 
 
